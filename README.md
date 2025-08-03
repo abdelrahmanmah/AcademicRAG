@@ -78,7 +78,7 @@ This tool uses **LangChain**, **Google Gemini (1.5-flash)**, and **FAISS vector 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/pdf-converser.git
+git clone https://github.com/abdelrahmanmah/AcademicRAG.git
 cd pdf-converser
 
 # (Optional but recommended)
@@ -126,9 +126,13 @@ Contributions are welcome!
 
 ---
 
+
 ## Authors and Contact 📞
 
 - **Abdelrahman Mahmoud** – [@abdelrahmanmah](https://github.com/abdelrahmanmah)
+- **Gannatullah Asaad** – [@GannaAsaad](https://github.com/GannaAsaad)
+- **Ali Mohamed** – [@AliiiMohamedAliii](https://github.com/AliiiMohamedAliii)
+- **Ahmed Khaled** – [@Ahmedkhaled51](https://github.com/Ahmedkhaled51)
 
 Project Link: [https://github.com/your-username/pdf-converser]([https://github.com/your-username/pdf-converser](https://github.com/abdelrahmanmah/AcademicRAG/))
 
