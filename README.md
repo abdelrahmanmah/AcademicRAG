@@ -8,9 +8,6 @@
     <br />
     Your personal AI research assistant for PDF deep-dives!
     <br />
-    <a href="https://github.com/your-username/pdf-converser/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your-username/pdf-converser/issues">Request Feature</a>
   </p>
 </div>
 
