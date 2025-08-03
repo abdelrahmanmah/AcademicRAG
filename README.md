@@ -134,7 +134,7 @@ Contributions are welcome!
 - **Ali Mohamed** – [@AliiiMohamedAliii](https://github.com/AliiiMohamedAliii)
 - **Ahmed Khaled** – [@Ahmedkhaled51](https://github.com/Ahmedkhaled51)
 
-Project Link: [https://github.com/your-username/pdf-converser]([https://github.com/your-username/pdf-converser](https://github.com/abdelrahmanmah/AcademicRAG/))
+Project Link: [https://github.com/abdelrahmanmah/AcademicRAG/](https://github.com/abdelrahmanmah/AcademicRAG/)
 
 ---
 
